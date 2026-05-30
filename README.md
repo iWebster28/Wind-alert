@@ -21,8 +21,8 @@ For CI, set `NTFY_TOPIC` as a repository **Secret** (ntfy topics have no
 auth — anyone with the topic name can read or spam your alerts).
 
 The workflow ([.github/workflows/wind_alert.yml](.github/workflows/wind_alert.yml))
-fires twice daily on cron — `14:00 UTC` (≈ 7 AM Pacific) and `23:00 UTC`
-(≈ 4 PM Pacific) — and can also be run on demand from the **Actions** tab via
+fires twice daily on cron — `14:17 UTC` (≈ 7:17 AM Pacific) and `23:37 UTC`
+(≈ 4:37 PM Pacific) — and can also be run on demand from the **Actions** tab via
 "Run workflow."
 
 ## Project layout
